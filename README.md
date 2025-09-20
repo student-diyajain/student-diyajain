@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building robust backend systems using Spring Boot, including RESTful APIs and microservices for real-world web applications.<br><br>🤝 I’m looking to collaborate on<br>Spring Boot projects, backend-focused web apps, and tools that need efficient API design or database integration.<br><br>💛 I’m looking for help with<br>Advanced Spring Boot features like security, JWT authentication, and Docker deployment.<br><br>🌱 I’m currently learning<br>Spring Boot in depth — exploring Spring Data JPA, REST APIs, and connecting with MySQL.<br><br>💬 Ask me about<br>Spring Boot fundamentals, Java backend development, and integrating Spring with frontend technologies.<br><br>⚡ Fun fact<br>I enjoy solving bugs more than writing new code — it’s like detective work with semicolons! 🕵️‍♀️
+I'm Diya Jain, a backend developer passionate about building scalable systems with Java, Spring Boot, and MySQL.🕵️‍♀️
 
 
 ## 🌐 Socials:
