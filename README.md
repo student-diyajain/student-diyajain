@@ -1,6 +1,7 @@
-#👋 Hello, I'm Diya Jain!
+👋 Hello, I'm Diya Jain!
 💻 I'm a Backend Developer passionate about crafting scalable, modular systems that power impactful platforms.
 I specialize in Java, Spring Boot, and RESTful APIs, and thrive on solving complex challenges with clean architecture and maintainable code. I love bridging technical depth with clear documentation to drive real-world solutions.
+
 
 
 
